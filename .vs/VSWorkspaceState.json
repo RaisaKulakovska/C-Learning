@@ -4,8 +4,9 @@
     "\\ConsoleApp1",
     "\\ConsoleApp1\\ConsoleApp1",
     "\\ConsoleApp1\\Massives",
-    "\\GoF"
+    "\\GoF",
+    "\\GoF\\GoF"
   ],
-  "SelectedNode": "\\GoF\\GoF.sln",
+  "SelectedNode": "\\ConsoleApp1\\ConsoleApp1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
